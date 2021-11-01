@@ -1,2 +1,2 @@
 # VTM-Jam
-A game created for the 2021 Vampire The Masquerade Game Jam
+This game was created as a part of Vampire: The Masquerade game jam. Events portrayed in this game are not canon within World of Darkness universe.
